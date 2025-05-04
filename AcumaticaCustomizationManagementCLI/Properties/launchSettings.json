@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "AcumaticaCustomizationAPI": {
+      "commandName": "Project"
+      //"commandLineArgs": "--command import --site http://localhost/SalesDemo --username username@tenant --password 321 --customizationsFolderPath C:\\PROJECTS_TO_IMPORT\\",
+      //"commandLineArgs": "--command unpublish --site http://localhost/SalesDemo --username username@tenant --password 321",
+      //"commandLineArgs": "--command publish --site http://localhost/SalesDemo --username username@tenant --password 321 --projectListPath ProjectsToPublish.txt --replayDBScripts 1"
+      //"commandLineArgs": "--command getPublished --site http://localhost/SalesDemo --username username@tenant --password 321",
+    }
+  }
+}

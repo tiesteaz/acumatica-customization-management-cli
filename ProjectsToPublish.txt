@@ -1,0 +1,2 @@
+# List of customization projects to publish (must match name of the project in the Customization Projects screen)
+MyAcumaticaCstProject
